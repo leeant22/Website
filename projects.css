@@ -83,7 +83,7 @@ body {
     min-width: 1500px;
 }
 
-.experiences {
+.projects {
     color: black;
     position: relative;
     top: 100px;
@@ -104,6 +104,15 @@ body {
     padding-left: 10%;
     padding-bottom: 8px;
     font-size: 20px;
+}
+
+.activity a {
+    color: black;
+}
+
+.activity a strong:hover {
+    color: #ff8c69;
+    transition: all 0.4s ease 0s;
 }
 
 .date {
